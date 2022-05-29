@@ -4,7 +4,7 @@ Trabalho que tem como objeto realizar um panorama sobre os indíces de suícidio
 
 
 ## Base de Dados
-Neste trabalho usaremos a base de dados [Suicide Rates Overview 1985 to 2016](https://www.kaggle.com/datasets/russellyates88/suicide-rates-overview-1985-to-2016).
+Usaremos a base de dados [Suicide Rates Overview 1985 to 2016](https://www.kaggle.com/datasets/russellyates88/suicide-rates-overview-1985-to-2016).
 
 
 ## Grupo
