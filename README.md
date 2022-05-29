@@ -1,7 +1,9 @@
-# Projeto - Introdução a Ciência dos Dados - UFMG - 2021/01
+# Projeto - Introdução a Ciência dos Dados - 2021/01
 
-Trabalho que tem como objeto realizar um panorama sobre os indíces de suícidio nos países durante o período de 1986 ate 2016.
+Trabalho da disciplina Introdução a Ciência dos Dados, lecionada em 2021/01 no curso de Sistemas de Informação da Universidade Federal de Minas Gerais.
 
+## Objetivo
+Realizar um panorama sobre os indíces de suícidio nos países durante o período de 1986 ate 2016.
 
 ## Base de Dados
 Usaremos a base de dados [Suicide Rates Overview 1985 to 2016](https://www.kaggle.com/datasets/russellyates88/suicide-rates-overview-1985-to-2016).
