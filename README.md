@@ -1,31 +1,30 @@
-# Projeto - Introdução a Ciência dos Dados - 2021/01
+# Project - Introduction to Data Science - UFMG - 2021/01
 
-Trabalho da disciplina Introdução a Ciência dos Dados, lecionada em 2021/01 no curso de Sistemas de Informação da Universidade Federal de Minas Gerais.
+Work of the discipline Introduction to Data Science, taught in 2021/01 in the Information Systems course at the Federal University of Minas Gerais (UFMG).
 
-## Objetivo
-Realizar um panorama sobre os indíces de suícidio nos países durante o período de 1986 ate 2016.
+## Goal
+To provide an overview of suicide rates in countries during the period from 1986 to 2016.
 
 ## Base de Dados
-Usaremos a base de dados [Suicide Rates Overview 1985 to 2016](https://www.kaggle.com/datasets/russellyates88/suicide-rates-overview-1985-to-2016).
+We used the datasetSuicide Rates Overview 1985 to 2016](https://www.kaggle.com/datasets/russellyates88/suicide-rates-overview-1985-to-2016).
 
 
-## Grupo
-Nosso grupo é composto por [Guilherme Mendes](https://github.com/GuiMendeees), [Icaro Vieira](https://github.com/icarovie), [Jean George](https://github.com/jeanGeorge), [João Gabriel](https://github.com/JoaoGontijo) e [João Pedro Rosa](https://github.com/jotaRenan).
+## Team
+Our team consists of [Guilherme Mendes](https://github.com/GuiMendeees), [Icaro Vieira](https://github.com/icarovie), [Jean George](https://github.com/jeanGeorge), [João Gabriel](https://github.com/JoaoGontijo) e [João Pedro Rosa](https://github.com/jotaRenan).
 
 
-## Perguntas a serem respondidas
-Abaixo seguem as perguntas que visamos responder neste trabalho. Cada membro do grupo buscará responder uma pergunta.
+## Questions to be answered
+Below are the questions we aim to answer in this work. Each group member will seek to answer a question.
 
-* Como é o comportamento das taxas nos países ao longo do tempo? Como é o comportamento vendo o continente inteiro? Realizar visualização interativa ano a ano. (Guilherme Mendes)
+* How is the behavior of rates across countries over time? How is the behavior seeing the entire continent? Perform year-to-year interactive visualization. (Guilherme Mendes)
 
-* Há relação entre o PIB per capita e uma taxa menor ou maior? (Icaro Vieira)
+* Is there a relationship between GDP per capita and a lower or higher rate? (Icaro Vieira)
 
-* Como é o comportamento das taxas por idade e por sexo e o como é o evolutivo desse estudo ao longo dos anos? (Jean George)
+* How is the behavior of the rates by age and by sex and how is the evolution of this study over the years? (Jean George)
 
-* Como será a estimativa para os próximos anos para o conjunto de dados? (João Gabriel)
+* What will the next years estimate for the dataset look like? (John Gabriel)
 
-* Por década qual a representatividade demográfica dos grupos que apresentaram maior taxa de suícidio? Leve em consideração que um grupo seria composto por gênero e sexo. (João Pedro Rosa)
+* By decade, what is the demographic representation of the groups that had the highest suicide rate? Take into account that a group would be composed of gender and sex. (João Pedro Rosa)
 
-
-## Relatório
+## Final Report
 TODO
