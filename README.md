@@ -5,8 +5,8 @@ Work of the discipline Introduction to Data Science, taught in 2021/01 in the In
 ## Goal
 To provide an overview of suicide rates in countries during the period from 1986 to 2016.
 
-## Base de Dados
-We used the datasetSuicide Rates Overview 1985 to 2016](https://www.kaggle.com/datasets/russellyates88/suicide-rates-overview-1985-to-2016).
+## Dataset
+We used the dataset [Suicide Rates Overview 1985 to 2016](https://www.kaggle.com/datasets/russellyates88/suicide-rates-overview-1985-to-2016).
 
 
 ## Team
