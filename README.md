@@ -1,6 +1,6 @@
 # Project - Introduction to Data Science - UFMG - 2021/01
 
-Work of the discipline Introduction to Data Science, taught in 2021/01 in the Information Systems course at the Federal University of Minas Gerais (UFMG).
+Work of the discipline Introduction to Data Science taught in 2021/01 in the Information Systems course at the Federal University of Minas Gerais (UFMG).
 
 ## Goal
 To provide an overview of suicide rates in countries during the period from 1986 to 2016.
